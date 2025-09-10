@@ -21,12 +21,12 @@ pytest-cov==4.1.0
 coverage==7.3.0
 
 # Packaging and distribution
-pyinstaller==5.13.0
-setuptools==68.2.2
+pyinstaller==5.13.1
+setuptools==78.1.1
 wheel==0.41.2
 
 # Additional tools
-requests==2.31.0
+requests==2.32.4
 psutil==5.9.5
 chardet==5.2.0
 
