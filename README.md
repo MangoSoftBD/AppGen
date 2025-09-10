@@ -5,9 +5,9 @@ AppGen হলো একটি শক্তিশালী এবং সম্প
 📱AppGen এর মাধ্যমে বাংলাদেশী ডেভেলপাররা তাদের মাতৃভাষা বাংলায় কোড লিখতে, ডিবাগ করতে এবং সম্পূর্ণ অ্যাপ্লিকেশন ডেভেলপমেন্ট সাইকেল পরিচালনা করতে পারবেন। এই IDEটি বাংলা UI, বাংলা ডকুমেন্টেশন, বাংলা কোড কমেন্ট এবং বাংলাদেশী SDK সমর্থন সহ সম্পূর্ণ বাংলা অভিজ্ঞতা প্রদান করে।
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="resources/icons/logo_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="resources/icons/logo_light.svg">
-    <img alt="AppGenStudio Logo" src="resources/icons/logo_light.svg" width="400">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MangoSoftBD/AppGen/blob/main/resources/logo/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MangoSoftBD/AppGen/blob/main/resources/logo/logo-light.png">
+    <img alt="AppGenStudio Logo" src="https://github.com/MangoSoftBD/AppGen/blob/main/resources/logo/logo-light.png" width="512">
   </picture>
 </div>
 
@@ -242,9 +242,9 @@ MIT License - বিস্তারিত জানতে [LICENSE](LICENSE) ফ
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="resources/icons/logo_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="resources/icons/logo_light.svg">
-    <img alt="AppGenStudio Logo" src="resources/icons/logo_light.svg" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MangoSoftBD/AppGen/blob/main/resources/logo/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MangoSoftBD/AppGen/blob/main/resources/logo/logo-light.png">
+    <img alt="AppGenStudio Logo" src="https://github.com/MangoSoftBD/AppGen/blob/main/resources/logo/logo-light.png" width="200">
   </picture>
   <br>
   <strong>Light and Dark Theme Support</strong>
