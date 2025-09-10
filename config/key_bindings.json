@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "key_bindings": {
+    "file_operations": {
+      "new_file": "Ctrl+N",
+      "open_file": "Ctrl+O",
+      "save_file": "Ctrl+S",
+      "save_all": "Ctrl+Shift+S",
+      "close_file": "Ctrl+W",
+      "close_all": "Ctrl+Shift+W",
+      "exit": "Ctrl+Q"
+    },
+    "edit_operations": {
+      "undo": "Ctrl+Z",
+      "redo": "Ctrl+Y",
+      "cut": "Ctrl+X",
+      "copy": "Ctrl+C",
+      "paste": "Ctrl+V",
+      "select_all": "Ctrl+A",
+      "find": "Ctrl+F",
+      "replace": "Ctrl+H",
+      "find_next": "F3",
+      "find_previous": "Shift+F3"
+    },
+    "code_editing": {
+      "indent": "Tab",
+      "unindent": "Shift+Tab",
+      "comment_line": "Ctrl+/",
+      "comment_block": "Ctrl+Shift+/",
+      "duplicate_line": "Ctrl+D",
+      "delete_line": "Ctrl+L",
+      "move_line_up": "Ctrl+Shift+Up",
+      "move_line_down": "Ctrl+Shift+Down",
+      "toggle_line_comment": "Ctrl+K",
+      "format_code": "Ctrl+Shift+F",
+      "auto_complete": "Ctrl+Space",
+      "quick_fix": "Alt+Enter"
+    },
+    "navigation": {
+      "go_to_line": "Ctrl+G",
+      "go_to_file": "Ctrl+P",
+      "go_to_symbol": "Ctrl+Shift+O",
+      "go_to_definition": "F12",
+      "go_back": "Alt+Left",
+      "go_forward": "Alt+Right",
+      "toggle_bookmark": "Ctrl+F2",
+      "next_bookmark": "F2",
+      "previous_bookmark": "Shift+F2"
+    },
+    "run_debug": {
+      "run": "F5",
+      "debug": "F6",
+      "stop": "Shift+F5",
+      "step_over": "F10",
+      "step_into": "F11",
+      "step_out": "Shift+F11",
+      "toggle_breakpoint": "F9",
+      "continue": "F8"
+    },
+    "view": {
+      "toggle_sidebar": "Ctrl+B",
+      "toggle_terminal": "Ctrl+`",
+      "toggle_fullscreen": "F11",
+      "zoom_in": "Ctrl+Plus",
+      "zoom_out": "Ctrl+Minus",
+      "reset_zoom": "Ctrl+0",
+      "split_editor": "Ctrl+\\",
+      "toggle_word_wrap": "Alt+Z"
+    },
+    "project": {
+      "new_project": "Ctrl+Shift+N",
+      "open_project": "Ctrl+Shift+O",
+      "build_project": "Ctrl+F7",
+      "clean_project": "Ctrl+Shift+F7",
+      "project_settings": "Ctrl+Alt+Shift+S"
+    },
+    "window_management": {
+      "new_window": "Ctrl+Shift+N",
+      "close_window": "Ctrl+Shift+W",
+      "next_tab": "Ctrl+Tab",
+      "previous_tab": "Ctrl+Shift+Tab",
+      "switch_tab_1": "Ctrl+1",
+      "switch_tab_2": "Ctrl+2",
+      "switch_tab_3": "Ctrl+3",
+      "switch_tab_4": "Ctrl+4",
+      "switch_tab_5": "Ctrl+5",
+      "switch_tab_6": "Ctrl+6",
+      "switch_tab_7": "Ctrl+7",
+      "switch_tab_8": "Ctrl+8",
+      "switch_tab_9": "Ctrl+9"
+    }
+  },
+  "language_specific": {
+    "python": {
+      "run_selection": "Ctrl+Enter",
+      "debug_selection": "Ctrl+Shift+Enter"
+    },
+    "java": {
+      "organize_imports": "Ctrl+Shift+O",
+      "generate_code": "Alt+Insert"
+    },
+    "cpp": {
+      "switch_header_source": "F4"
+    }
+  },
+  "settings": {
+    "auto_save": false,
+    "auto_save_delay": 1000,
+    "emacs_keybindings": false,
+    "vim_keybindings": false,
+    "custom_keybindings_enabled": true
+  }
+}

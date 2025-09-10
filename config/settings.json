@@ -1,0 +1,144 @@
+{
+  "version": "1.0.0",
+  "editor": {
+    "font_family": "Consolas",
+    "font_size": 14,
+    "line_height": 1.5,
+    "tab_size": 4,
+    "insert_spaces": true,
+    "word_wrap": true,
+    "line_numbers": true,
+    "highlight_current_line": true,
+    "show_whitespace": false,
+    "show_indent_guides": true,
+    "auto_indent": true,
+    "code_folding": true,
+    "match_brackets": true,
+    "auto_complete": true,
+    "auto_complete_delay": 300,
+    "syntax_highlighting": true,
+    "theme": "dark",
+    "cursor_blink": true,
+    "smooth_scrolling": true,
+    "minimap": true,
+    "minimap_scale": 4
+  },
+  "workbench": {
+    "theme": "dark",
+    "icon_theme": "default",
+    "color_theme": "default-dark",
+    "sidebar_position": "left",
+    "sidebar_visible": true,
+    "statusbar_visible": true,
+    "activitybar_visible": true,
+    "editor_area_layout": "vertical",
+    "zen_mode": false,
+    "center_layout": false,
+    "show_full_path": false,
+    "recent_files_limit": 10,
+    "restore_previous_session": true
+  },
+  "files": {
+    "auto_save": "after_delay",
+    "auto_save_delay": 1000,
+    "default_encoding": "utf-8",
+    "default_line_ending": "lf",
+    "exclude_patterns": [
+      "**/node_modules/**",
+      "**/.git/**",
+      "**/__pycache__/**",
+      "**/*.pyc",
+      "**/.DS_Store"
+    ],
+    "associations": {
+      "*.py": "python",
+      "*.java": "java",
+      "*.cpp": "cpp",
+      "*.c": "c",
+      "*.js": "javascript",
+      "*.html": "html",
+      "*.css": "css",
+      "*.md": "markdown"
+    }
+  },
+  "terminal": {
+    "shell": {
+      "windows": "cmd.exe",
+      "linux": "bash",
+      "osx": "zsh"
+    },
+    "font_size": 12,
+    "cursor_blink": true,
+    "copy_on_selection": false,
+    "scrollback": 1000,
+    "bell_style": "sound",
+    "inherit_env": true
+  },
+  "python": {
+    "interpreter_path": "python",
+    "linting_enabled": true,
+    "lint_on_save": true,
+    "format_on_save": false,
+    "auto_activate_venv": true,
+    "analysis": {
+      "type_checking": "basic",
+      "auto_import_completions": true,
+      "indexing": true
+    }
+  },
+  "java": {
+    "home_path": "",
+    "compile_on_save": true,
+    "auto_build": true,
+    "code_generation": {
+      "toString_template": "StringConcat",
+      "hashCode_equals_use_objects": true,
+      "use_blocks": true
+    }
+  },
+  "cpp": {
+    "compiler_path": "g++",
+    "cpp_standard": "c++17",
+    "intellisense_mode": "windows-msvc-x64",
+    "include_paths": [],
+    "defines": []
+  },
+  "debug": {
+    "console": "internalConsole",
+    "allow_breakpoints_everywhere": false,
+    "show_line_numbers": true,
+    "show_variable_types": false,
+    "show_arguments": true,
+    "collapse_simple_values": true,
+    "breakpoint_hit_message": true
+  },
+  "extensions": {
+    "auto_update": true,
+    "auto_check_updates": true,
+    "recommendations": true
+  },
+  "window": {
+    "zoom_level": 0,
+    "title_bar_style": "custom",
+    "native_tabs": false,
+    "native_full_screen": true,
+    "menu_bar_visibility": "default",
+    "open_files_in_new_window": false,
+    "restore_windows": "all"
+  },
+  "update": {
+    "mode": "default",
+    "enable_windows_background_update": true,
+    "show_release_notes": true
+  },
+  "telemetry": {
+    "enable_telemetry": false,
+    "enable_crash_reports": false
+  },
+  "security": {
+    "workspace_trust": {
+      "enabled": true,
+      "startup_prompt": "always"
+    }
+  }
+}
